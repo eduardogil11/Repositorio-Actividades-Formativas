@@ -1,0 +1,36 @@
+Fire_Emblem 6 Chrom  
+Super_Mario 1 Daisy 
+Donkey_Kong 5 Diddy Kong 
+Donkey_Kong 5 Donkey Kong 
+Super_Mario 1 Estela 
+Star_Fox 8 Fox 
+Star_Fox 8 Falco  
+The_Legend_of_Zelda 3 Ganondorf 
+Pokémon 2 Greninja 
+Fire_Emblem 6 Ike 
+Pokémon 2 Jigglypuff 
+Kirby 4 Kirby 
+The_Legend_of_Zelda 3 Link 
+The_Legend_of_Zelda 3 Link Niño 
+Pokémon 2 Lucario 
+Mother 9 Lucas 
+Fire_Emblem 6 Lucina 
+Super_Mario 1 Luigi 
+Super_Mario 1 Mario  
+Fire_Emblem 6 Marth 
+Kirby 4 Meta Knight
+Pokémon 2 Mewtwo 
+Mother 9 Ness 
+Super_Mario 1 Peach 
+Pokémon 2 Pichu 
+Pokémon 2 Pikachu 
+Kirby 4 Rey Dedede
+Fire_Emblem 6 Roy
+Metroid 7 Samus 
+Metroid 7 Samus Zero
+The_Legend_of_Zelda 3 Sheik 
+The_Legend_of_Zelda 3 Toon Link
+Super_Mario 1 Wario 
+Star_Fox 8 Wolf
+Super_Mario 1 Yoshi
+The_Legend_of_Zelda 3 Zelda 
