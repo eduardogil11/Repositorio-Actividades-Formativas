@@ -1,14 +1,16 @@
 #Create(add)
 
-El algoritmo usa dos ciclos relacionados entres si (n*n), por los que su complejidad es O(n^2).
+Su complejidad es O(n), ya que solo  cuneta con un while y esto hace que solo se produzca un solo recorrido del mismo.
 
 #Read(find)
 
-El algoritmo usa dos ciclos relacionados entres si (n*n), por los que su complejidad es O(n^2).
+Su complejidad es O(n), ya que solo cuenta con un while y esto hace que solo se produzca un solo recorrido del mismo, ya que es lineal solamente si la dirección no es nula.
 
 #Update(update)
 
-El algoritmo utiliza una interacción que lo recorre, sin hacer las comparaciones y dividiendo los arreglos dependiedno la condición que da el ordenamiento, por los que su complejidad es O(n log(n)) para el peor de los casos.
+Su complejidad es O(n), ya que solo  cuneta con un while y esto hace que solo se produzca un solo recorrido del mismo.
 
 #Delete(remove)
 
+Su complejidad es O(n), ya que solo  cuneta con un while y esto hace que solo se produzca un solo recorrido del mismo, aun que el cilco que se utilizo llega a cambiar
+de igual manera sigue siendo una función de complejidad lineal.
