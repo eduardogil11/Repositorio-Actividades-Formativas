@@ -18,7 +18,7 @@ using namespace std;
 template <class T> class Heap {
     private:
 	    T *data;
-	    unsigned int out;
+	    unsigned int tam;
 	    unsigned int count;	
       unsigned int parent(unsigned int) const;
 	    unsigned int left(unsigned int) const;
@@ -27,7 +27,7 @@ template <class T> class Heap {
 	    void swap(unsigned int, unsigned int);       
 
     public:
-	    Heap(unsigned int ou);
+	    Heap(unsigned int out);
 	    ~Heap();
 	    string toString() const;
 	    void push(T);
@@ -77,9 +77,9 @@ void Heap<T>::swap(unsigned int i, unsigned int j) {
 }
 
 template <class T>
-Heap<T>::Heap(unsigned int ou) {
-	out = ou;
-	data = new T[out];
+Heap<T>::Heap(unsigned int out) {
+	tam = out;
+	data = new T[tam];
 	count = 0;
 }
 
@@ -87,7 +87,7 @@ template <class T>
 Heap<T>::~Heap() {
 	delete [] data; 
 	data = 0;
-	out = 0; 
+	tam = 0; 
 	count = 0;
 }
 
