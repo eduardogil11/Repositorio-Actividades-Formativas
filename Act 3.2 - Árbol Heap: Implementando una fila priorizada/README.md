@@ -4,11 +4,11 @@ Su complejidad es O(log(n)), ya que cuenta con un ciclo while añade un elemento
 
 #Pop
 
-Su complejidad es O(0), ya que solo remueve los elementos del árbol y no utliza ningun ciclo. 
+Su complejidad es O(log(n)), ya que solo remueve los elementos del árbol y no utliza ningun ciclo. 
 
 #Top
 
-Su complejidad es O(n), ya que cuenta con ciclos if para recorrer los pasos necesarios, para hallar la raíz del árbol y los nodos anteriores, siendo así lineal.
+Su complejidad es O(1), ya que solo consulta el dato inicial y realiza una operación para pasar el dato al arreglo en primera posición.
 
 #Empty
 
@@ -16,3 +16,4 @@ Su complejidad es O(n), ya que cuenta con ciclos if para recorrer los pasos nece
 
 #Size
 
+Su complejidad es O(1), ya que halla un valor que tiene atributo de cuenta.
