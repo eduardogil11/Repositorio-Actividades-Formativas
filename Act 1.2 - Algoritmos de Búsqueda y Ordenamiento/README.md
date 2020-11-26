@@ -19,5 +19,11 @@ por los que su complejidad es O(n log(n)) para el peor de los casos.
 
 #busqSecuencial
 
+Análisis de complejidad temporal
+
+
 
 #busqBinaria
+
+Análisis de complejidad temporal
+
