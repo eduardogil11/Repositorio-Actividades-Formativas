@@ -16,3 +16,8 @@ Análisis de complejidad temporal
 
 El algoritmo utiliza una interacción que lo recorre, sin hacer las comparaciones y dividiendo los arreglos dependiedno la condición que da el ordenamiento, 
 por los que su complejidad es O(n log(n)) para el peor de los casos.
+
+#busqSecuencial
+
+
+#busqBinaria
