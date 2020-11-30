@@ -1,6 +1,6 @@
 #Add
 
-Su complejidad es O(n), es lineal, ya que cuenta con una función la cual realiza rotaciones entre el abuelo, padre y hijo, para que el hijo pueda llegar a ser la raíz.
+Su complejidad es O(log(n)), ya que realiza divisiones en el arbol para asi poder agregar el dato.
 
 #Remove
 
