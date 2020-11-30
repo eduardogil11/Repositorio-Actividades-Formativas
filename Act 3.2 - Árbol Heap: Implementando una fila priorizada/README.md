@@ -12,7 +12,7 @@ Su complejidad es O(1), ya que solo consulta el dato inicial y realiza una opera
 
 #Empty
 
-Su complejidad es O(n), ya que cuenta con ciclos if para recorrer los pasos necesarios, para devolver el nivel y en caso de que no llegue a existir lo devuelve como menos uno, siendo así lineal.
+Su complejidad es O(1), ya que cuenta con ciclos if para recorrer los pasos necesarios, para devolver el nivel y en caso de que no llegue a existir lo devuelve como menos uno.
 
 #Size
 
