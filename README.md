@@ -14,3 +14,7 @@ Se agregaron las funciones busqSecuencial y busqBinaria en el sorts.h, y se le a
 
 # Act 3.2 - Árbol Heap: Implementando una fila priorizada
 Se corrigio el analisis de complejidad de la funcion empty.
+
+
+# Act 3.3 - Árbol Desplegado: Implementando un Splay Tree
+Se corrigio el analisis de complejidad de la funcion add.
