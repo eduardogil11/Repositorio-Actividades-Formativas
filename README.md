@@ -11,8 +11,10 @@ Se corrigio el analisis de complejidad de las funciones iterativas y funciones r
 # Act 1.2 - Algoritmos de Búsqueda y Ordenamiento
 Se agregaron las funciones busqSecuencial y busqBinaria en el sorts.h, y se le agrego el analisis de complejidad de las funciones busqSecuencial y busqBinaria.
 
+
 # Act 2.1 - Implementación de un ADT de estructura de datos lineales (Linked List)
 Se agrego la funcion remove en el list.h.
+
 
 # Act 3.2 - Árbol Heap: Implementando una fila priorizada
 Se corrigio el analisis de complejidad de la funcion empty.
